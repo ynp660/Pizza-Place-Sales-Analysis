@@ -89,13 +89,12 @@ pip install pandas matplotlib
 ## Project Structure
 
 Pizza-Sales-Analysis/
-│
-├── orders.csv
-├── order_details.csv
-├── pizzas.csv
-├── pizza_types.csv
-├── Pizza_Sales_Analysis.ipynb
-└── README.md
+── orders.csv
+── order_details.csv
+── pizzas.csv
+── pizza_types.csv
+── Pizza_Sales_Analysis.ipynb
+── README.md
 
 ## Conclusion
 
